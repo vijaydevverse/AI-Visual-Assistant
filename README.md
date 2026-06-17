@@ -40,7 +40,7 @@ AI-Visual-Assistant/
 ### 1. Clone or Download the Project
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Visual-Assistant.git
+git clone https:https://github.com/vijaydevverse/AI-Visual-Assistant
 cd AI-Visual-Assistant
 ````
 
